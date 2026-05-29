@@ -9,7 +9,7 @@ This project demonstrates end-to-end data processing using SQL Server. I perform
 *   **Business Intelligence**: Answering key business questions regarding customer demographics, engagement, and regional distribution.
 
 ## Technical Skills Applied
-*   **SQL Data Manipulation**: `UPDATE`, `CASE`, `GROUP BY`, `JOIN`, `HAVING`.
+*   **SQL Data Manipulation**: `UPDATE`, `CASE`, `GROUP BY`, `HAVING`.
 *   **Data Transformation**: Text standardization (`UPPER`, `LOWER`, `TRIM`), date manipulation, and handling NULL values.
 *   **Analytical Thinking**: Logical validation of datasets and identifying performance trends.
 
