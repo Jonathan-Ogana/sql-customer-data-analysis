@@ -19,7 +19,7 @@ This project demonstrates end-to-end data processing using SQL Server. I perform
 3.  **Analysis**: Generating metrics to support decision-making (e.g., gender distribution, top performing states).
 
 ## Getting Started
-You can view the complete implementation in the `customer_analysis.sql` file. This script is compatible with SQL Server Management Studio (SSMS).
+You can view the complete implementation in the `SQL Project on SampleDB - Customers.sql` file. This script is compatible with SQL Server Management Studio (SSMS).
 
 ---
 *Created by Jonathan Ogana*
